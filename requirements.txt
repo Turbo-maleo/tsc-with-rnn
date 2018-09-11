@@ -1,0 +1,8 @@
+tensorflow-gpu>=1.6.0
+keras>=2.1.5
+scipy
+numpy
+pandas
+scikit-learn>=0.18.2
+matplotlib
+keras-tqdm
